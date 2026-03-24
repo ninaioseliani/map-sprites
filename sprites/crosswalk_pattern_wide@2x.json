@@ -1,0 +1,9 @@
+{
+  "crosswalk_pattern_wide": {
+    "width": 64,
+    "height": 64,
+    "x": 0,
+    "y": 0,
+    "pixelRatio": 2
+  }
+}
