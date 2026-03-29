@@ -1,1 +1,50 @@
-{"shield_green_small":{"width":120,"height":72,"x":0,"y":0,"pixelRatio":2,"visible":true},"shield_green_wide":{"width":144,"height":72,"x":124,"y":0,"pixelRatio":2,"visible":true},"shield_blue_small":{"width":120,"height":72,"x":272,"y":0,"pixelRatio":2,"visible":true},"shield_blue_wide":{"width":144,"height":72,"x":396,"y":0,"pixelRatio":2,"visible":true},"shield_green_small_flat":{"width":120,"height":72,"x":0,"y":76,"pixelRatio":2,"visible":true},"shield_green_wide_flat":{"width":144,"height":72,"x":124,"y":76,"pixelRatio":2,"visible":true},"shield_blue_small_flat":{"width":120,"height":72,"x":272,"y":76,"pixelRatio":2,"visible":true},"shield_blue_wide_flat":{"width":144,"height":72,"x":396,"y":76,"pixelRatio":2,"visible":true}}
+{
+  "shield_green_short": {
+    "width": 84,
+    "height": 52,
+    "x": 0,
+    "y": 0,
+    "pixelRatio": 2,
+    "visible": true
+  },
+  "shield_green_medium": {
+    "width": 112,
+    "height": 52,
+    "x": 88,
+    "y": 0,
+    "pixelRatio": 2,
+    "visible": true
+  },
+  "shield_green_long": {
+    "width": 144,
+    "height": 52,
+    "x": 204,
+    "y": 0,
+    "pixelRatio": 2,
+    "visible": true
+  },
+  "shield_blue_short": {
+    "width": 84,
+    "height": 52,
+    "x": 352,
+    "y": 0,
+    "pixelRatio": 2,
+    "visible": true
+  },
+  "shield_blue_medium": {
+    "width": 112,
+    "height": 52,
+    "x": 440,
+    "y": 0,
+    "pixelRatio": 2,
+    "visible": true
+  },
+  "shield_blue_long": {
+    "width": 144,
+    "height": 52,
+    "x": 556,
+    "y": 0,
+    "pixelRatio": 2,
+    "visible": true
+  }
+}
