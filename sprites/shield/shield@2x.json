@@ -1,7 +1,7 @@
 {
   "shield_green_short": {
     "width": 84,
-    "height": 52,
+    "height": 64,
     "x": 0,
     "y": 0,
     "pixelRatio": 2,
@@ -9,7 +9,7 @@
   },
   "shield_green_medium": {
     "width": 112,
-    "height": 52,
+    "height": 64,
     "x": 88,
     "y": 0,
     "pixelRatio": 2,
@@ -17,7 +17,7 @@
   },
   "shield_green_long": {
     "width": 144,
-    "height": 52,
+    "height": 64,
     "x": 204,
     "y": 0,
     "pixelRatio": 2,
@@ -25,7 +25,7 @@
   },
   "shield_blue_short": {
     "width": 84,
-    "height": 52,
+    "height": 64,
     "x": 352,
     "y": 0,
     "pixelRatio": 2,
@@ -33,7 +33,7 @@
   },
   "shield_blue_medium": {
     "width": 112,
-    "height": 52,
+    "height": 64,
     "x": 440,
     "y": 0,
     "pixelRatio": 2,
@@ -41,7 +41,7 @@
   },
   "shield_blue_long": {
     "width": 144,
-    "height": 52,
+    "height": 64,
     "x": 556,
     "y": 0,
     "pixelRatio": 2,
